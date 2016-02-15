@@ -1,0 +1,12 @@
+# Vim
+*~
+.*.swp
+
+# Emacs
+\#*#
+
+# git
+*.orig
+
+# Maven
+target/**
